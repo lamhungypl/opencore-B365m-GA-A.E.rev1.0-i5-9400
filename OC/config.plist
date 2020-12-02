@@ -874,29 +874,22 @@
 	<dict>
 		<key>Automatic</key>
 		<true/>
-		<key>CustomMemory</key>
-		<false/>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseWindows</key>
 			<false/>
-			<key>SystemMemoryStatus</key>
-			<string>Auto</string>
 			<key>MLB</key>
-			<string>C02945600GULNV91H</string>
-			<key>ProcessorType</key>
-			<integer>0</integer>
+			<string>C02019609QXLNV98C</string>
 			<key>ROM</key>
-			<data>ESIzRFVm</data>
+			<data>ESIzAAAA</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02ZNMZDJV3Q</string>
+			<string>C02CPDYTJV3Q</string>
 			<key>SystemUUID</key>
-			<string>19378443-3A78-4ADF-93C9-7DA17DB25F7F
-</string>
+			<string>E633BB08-36BC-4A10-8E68-D08DED322057</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
